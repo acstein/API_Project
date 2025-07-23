@@ -1,4 +1,4 @@
-# Parser API (Month 1 Project)
+# Parser API Project
 
 A simple **FastAPI** project that provides:
 - A **`/hello`** endpoint (basic GET test).
