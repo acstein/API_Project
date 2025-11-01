@@ -18,17 +18,6 @@ This project was created as part of a month-long learning sprint to explore **ba
 
 ---
 
-## Project Structure
-API_Project/
-│
-├── my_first_api.py # FastAPI app with /hello and /echo endpoints
-├── test_.py # Unit tests for the API
-├── requirements.txt # Python dependencies
-└── README.md # Project documentation
-
-
----
-
 ## Installation & Setup
 
 ### 1. Clone the repository
